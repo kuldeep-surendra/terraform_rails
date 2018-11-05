@@ -11,4 +11,7 @@ terraform init<br/>
 terraform plan<br/>
 terraform apply<br/>
 
+## Image built from
+* https://github.com/kuldeep-surendra/packer_rails
+
 * image_id in main.tf ami-0dc2e304f67060308 is used, which contains ruby dependencies installed using packer, which can be changed  *
